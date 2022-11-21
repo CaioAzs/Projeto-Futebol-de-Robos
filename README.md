@@ -42,6 +42,6 @@ Status: Finalizado ✅
 Você pode enviar quantos PR's quiser, terei prazer em analisá-los e aceitá-los! E se você tiver alguma dúvida sobre o projeto...
 <p>Desenvolvedores:
 <p>souzascaio23cs@gmail.com</p>
-<p>lucasreboucas100@gmail.com</p>.
+<p>lucasreboucas100@gmail.com</p>
 
 Obrigado!
